@@ -1,10 +1,7 @@
-**1. Project Title**
-Rock, Paper, Scissors Game
-
-**2. Description**
+**1. Description**
 A Python implementation of the classic Rock, Paper, Scissors game where you play against the computer. Choose your move by typing a number, and the computer randomly selects its own. The program determines and displays who won, lost, or if it’s a draw.
 
-**3. How It Works**
+**2. How It Works**
 The player chooses rock, paper, or scissors by entering 0, 1, or 2.
 
 The computer picks its move randomly.
@@ -13,14 +10,14 @@ Both choices are displayed using ASCII art.
 
 The winner is decided with game rules and shown in the console.
 
-**4. How to Play**
+**3. How to Play**
 Run the script in a Python environment.
 
 Enter 0 for Rock, 1 for Paper, or 2 for Scissors when prompted.
 
 See the computer’s choice and result (win/lose/draw).
 
-**6. Operators and Functions Used**
+**4. Operators and Functions Used**
 
 Operators:
 
